@@ -1,0 +1,26 @@
+h1{
+	color: blue;
+}
+.yellow{
+	border: 5px solid red;
+	background-color: pink;
+}
+
+h2{
+	color:  brown;
+}
+.background{
+	background-color: yellow;
+}
+h3{
+	color: darkgreen;
+}
+#font_size{
+	font-size: 40px;
+}
+
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: green;
+}
